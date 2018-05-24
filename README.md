@@ -3,7 +3,7 @@
 		<meta charset="utf-8" />
 	</head>
 	<body>
-		<p>https://henauyang.github.io/yangminan.github.io</p>
+		<p>https://henauyang.github.io/yangminan</p>
 		<div id="">
 			<h1>我的第一个网页制作</h1>
 		</div>
